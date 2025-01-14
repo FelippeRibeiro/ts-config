@@ -1,5 +1,0 @@
-{
-  "*.ts": [
-    "prettier --check \"src/**/*.ts\""
-  ]
-}
